@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+}
+.s{
+    padding: 50px 0px 200px 320px;
+}
+.sh{
+    text-align: center;
+    padding-top: 50px;
+}
+.sh a{
+    text-align: center;
+    font-size: 40px;
+    color: limegreen;
+    text-decoration: none;
+}
+.sha{
+    background-color:rgb(238, 243, 245);
+    height: 500px;
+    width:800px;
+    margin: 25px 0px 150px 320px;
+    padding: 50px 30px 50px 70px;
+}
+.sha p{
+    font-size: 18px;
+}
+.sha div img{
+    height: 150px;
+    width: 40%;
+    margin: 100px 35px 0px 35px ;
+}
+.sha div{
+    text-align: center;
+}
+.shan{
+    position: absolute;
+    top: 432px;
+    left: 565px;
+}
+.shan a{
+    background-color: rgb(14, 214, 14);
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.shank{
+    position: absolute;
+    top: 432px;
+    left: 950px;
+}
+.shank a{
+    background-color: rgb(14, 214, 14);
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.shanka i{
+    background-color: rgb(14, 214, 14);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
+.shanka a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+.shanka{
+    border: none;
+    padding: 5px 0px;
+    width: 220px;
+    position: absolute;
+    top: 600px;
+    left: 480px;
+    background-color: white;
+}
+.shankar i{
+    background-color: rgb(14, 214, 14);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
+.shankar a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+}
+.shankar{
+    border: none;
+    padding: 5px 0px;
+    width: 235px;
+    position: absolute;
+    top: 600px;
+    left: 870px;
+    background-color: white;
+}
+@media screen and (max-width:720px){
+    .sha{
+    height: 750px;
+    width:95%;
+    margin: 25px 0px 150px 0px;
+    padding: 50px 10px 50px 10px;
+}
+.sha p{
+    font-size: 10px;
+}
+.sha div img{
+    height: 200px;
+    width: 100%;
+    margin: 100px 0px 0px 0px ;
+}
+.shan{
+    position: absolute;
+    top: 408px;
+    left: 160px;
+}
+.shank{
+    position: absolute;
+    top: 713px;
+    left: 150px;
+}
+.shanka{
+    padding: 5px 0px;
+    width: 250px;
+    position: absolute;
+    top: 622px;
+    left: 60px;
+}
+.shankar{
+    border: none;
+    padding: 5px 0px;
+    width: 265px;
+    position: absolute;
+    top: 925px;
+    left: 53px;
+    background-color: white;
+}
+}
+.shankarr{
+    background-color: rgb(0, 153, 255);
+    padding: 20px 310px 20px 310px;
+    color: white;
+    text-align: center;
+}
+.shankarr p{
+    font-size: 14.54px;
+    font-weight: lighter;
+}
+.shankarr h3{
+    font-weight: 100;
+}
+.shankarr a{
+    color: black;
+    text-decoration: none;
+}
+.shankarr a:hover{
+    text-decoration: underline;
+}
+@media screen and (max-width:7200px){
+.shankarr{
+    padding: 20px 30px 20px 30px;
+}
+.shankarr p{
+    font-size: 8px;
+}
+.shankarr h3{
+    font-size: 15px;
+}
+}
